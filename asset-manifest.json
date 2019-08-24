@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/n7-remax/react_first_project/static/css/main.7bac9dc2.chunk.css",
-    "main.js": "/n7-remax/react_first_project/static/js/main.8812e1f2.chunk.js",
-    "main.js.map": "/n7-remax/react_first_project/static/js/main.8812e1f2.chunk.js.map",
-    "runtime~main.js": "/n7-remax/react_first_project/static/js/runtime~main.2361092f.js",
-    "runtime~main.js.map": "/n7-remax/react_first_project/static/js/runtime~main.2361092f.js.map",
-    "static/js/2.8b5a5224.chunk.js": "/n7-remax/react_first_project/static/js/2.8b5a5224.chunk.js",
-    "static/js/2.8b5a5224.chunk.js.map": "/n7-remax/react_first_project/static/js/2.8b5a5224.chunk.js.map",
-    "index.html": "/n7-remax/react_first_project/index.html",
-    "precache-manifest.1c30a432d67bdb03b588f4646a2d8efe.js": "/n7-remax/react_first_project/precache-manifest.1c30a432d67bdb03b588f4646a2d8efe.js",
-    "service-worker.js": "/n7-remax/react_first_project/service-worker.js",
-    "static/css/main.7bac9dc2.chunk.css.map": "/n7-remax/react_first_project/static/css/main.7bac9dc2.chunk.css.map"
+    "main.css": "/react_first_project/static/css/main.7bac9dc2.chunk.css",
+    "main.js": "/react_first_project/static/js/main.bddb936a.chunk.js",
+    "main.js.map": "/react_first_project/static/js/main.bddb936a.chunk.js.map",
+    "runtime~main.js": "/react_first_project/static/js/runtime~main.de146b51.js",
+    "runtime~main.js.map": "/react_first_project/static/js/runtime~main.de146b51.js.map",
+    "static/js/2.8b5a5224.chunk.js": "/react_first_project/static/js/2.8b5a5224.chunk.js",
+    "static/js/2.8b5a5224.chunk.js.map": "/react_first_project/static/js/2.8b5a5224.chunk.js.map",
+    "index.html": "/react_first_project/index.html",
+    "precache-manifest.8864c1e42f6c1fa750ba1635852da104.js": "/react_first_project/precache-manifest.8864c1e42f6c1fa750ba1635852da104.js",
+    "service-worker.js": "/react_first_project/service-worker.js",
+    "static/css/main.7bac9dc2.chunk.css.map": "/react_first_project/static/css/main.7bac9dc2.chunk.css.map"
   }
 }
